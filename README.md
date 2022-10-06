@@ -1,5 +1,4 @@
-# sap-btp-trial-hana-cf-get-started
-2022-10-06   
+2022-10-06 repo created   
 # SAP BTP Trial HANA Cloud Foundry Get Started Tutorial (Important)  
 
 For beginners, the tutorial demonstrates how to:  
