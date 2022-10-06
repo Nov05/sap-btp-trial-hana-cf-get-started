@@ -16,3 +16,6 @@ mergedManifestDescriptor.json
 APIExternalProducer.js
 .*/APIExternalProducer.js
 */node_modules*
+
+## added by nov05
+db/.env
