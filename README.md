@@ -9,4 +9,4 @@ For beginners, the tutorial demonstrates how to:
 
 **[【Tutorial by Thomas Jung】](https://developers.sap.com/tutorials/hana-trial-advanced-analytics.html#31c0c967-3cc0-45b4-9c21-cbd7d66d8342)[【My Notes】](https://docs.google.com/document/d/1Cs3xhwe-OgQL679NVSFIeGN1TJro5o6osLJ2EdS0QhQ)**  
 
-<img src="https://github.com/Nov05/pictures/blob/master/repos/sap-btp-trial-hana-cf-get-started/2022-10-06%2010_43_17-NVIDIA%20GeForce%20Overlay.jpg?raw=true">
+<img src="https://github.com/Nov05/pictures/blob/master/repos/sap-btp-trial-hana-cf-get-started/2022-10-06%2013_27_30-NVIDIA%20GeForce%20Overlay.jpg?raw=true">
