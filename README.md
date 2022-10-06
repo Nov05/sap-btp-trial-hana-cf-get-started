@@ -8,4 +8,4 @@ For beginners, the tutorial demonstrates how to:
 3. Create a simple NoSQL and a SQL table; insert and select data  
 4. Utilize SAP HANA text, graph and geo features  
 
-[【Tutorial】](https://developers.sap.com/tutorials/hana-trial-advanced-analytics.html#31c0c967-3cc0-45b4-9c21-cbd7d66d8342), **[【My Notes】](https://docs.google.com/document/d/1Cs3xhwe-OgQL679NVSFIeGN1TJro5o6osLJ2EdS0QhQ)**  
+**[【Tutorial】](https://developers.sap.com/tutorials/hana-trial-advanced-analytics.html#31c0c967-3cc0-45b4-9c21-cbd7d66d8342)****[【My Notes】](https://docs.google.com/document/d/1Cs3xhwe-OgQL679NVSFIeGN1TJro5o6osLJ2EdS0QhQ)**  
