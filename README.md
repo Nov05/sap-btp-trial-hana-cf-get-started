@@ -7,13 +7,14 @@ For beginners, the tutorial demonstrates how to:
 3. Create a simple NoSQL and a SQL table; insert and select data  
 4. Utilize SAP HANA text search, graph and geo features  
 
-:point_right: **[【tutorial by Thomas Jung】](https://developers.sap.com/tutorials/hana-trial-advanced-analytics.html#31c0c967-3cc0-45b4-9c21-cbd7d66d8342)[【my Notes】](https://docs.google.com/document/d/1Cs3xhwe-OgQL679NVSFIeGN1TJro5o6osLJ2EdS0QhQ)**  
+:point_right: check **[【tutorial by Thomas Jung】](https://developers.sap.com/tutorials/hana-trial-advanced-analytics.html#31c0c967-3cc0-45b4-9c21-cbd7d66d8342)[【my Notes】](https://docs.google.com/document/d/1Cs3xhwe-OgQL679NVSFIeGN1TJro5o6osLJ2EdS0QhQ)**  
 
 <img src="https://github.com/Nov05/pictures/blob/master/repos/sap-btp-trial-hana-cf-get-started/2022-10-06%2013_27_30-NVIDIA%20GeForce%20Overlay.jpg?raw=true">
 
 
 # Connect SAP HANA Cloud on BTP (Trial) using Python interface from Google Colab  
-:point_right: **[【my Colab notebook】](https://colab.research.google.com/drive/1X-4FdFMQx2MHouaUf1fbxA0Ab3r7e8hx), [【my notes】](https://docs.google.com/document/d/1Cs3xhwe-OgQL679NVSFIeGN1TJro5o6osLJ2EdS0QhQ)**  
+:point_right: check **[【my Colab notebook】](https://colab.research.google.com/drive/1X-4FdFMQx2MHouaUf1fbxA0Ab3r7e8hx), [【my notes】](https://docs.google.com/document/d/1Cs3xhwe-OgQL679NVSFIeGN1TJro5o6osLJ2EdS0QhQ)**  
+
 <img src="https://github.com/Nov05/pictures/blob/master/sap-btp-trial-hana-cf-get-started/ezgif.com-gif-maker.gif?raw=true">
 
 <br><br><br> 
