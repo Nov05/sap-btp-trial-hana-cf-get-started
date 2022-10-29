@@ -13,7 +13,7 @@ For beginners, the tutorial demonstrates how to:
 
 
 # Connect SAP HANA Cloud on BTP (Trial) using Python interface from Google Colab  
-:point_right: check **[【my Colab notebook】](https://colab.research.google.com/drive/1X-4FdFMQx2MHouaUf1fbxA0Ab3r7e8hx), [【my notes】](https://docs.google.com/document/d/1Cs3xhwe-OgQL679NVSFIeGN1TJro5o6osLJ2EdS0QhQ)**  
+:point_right: check **[【my Colab notebook】](https://colab.research.google.com/drive/1X-4FdFMQx2MHouaUf1fbxA0Ab3r7e8hx)[【my notes】](https://docs.google.com/document/d/1Cs3xhwe-OgQL679NVSFIeGN1TJro5o6osLJ2EdS0QhQ)**  
 
 <img src="https://github.com/Nov05/pictures/blob/master/sap-btp-trial-hana-cf-get-started/ezgif.com-gif-maker.gif?raw=true">
 
